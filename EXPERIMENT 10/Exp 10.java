@@ -1,6 +1,3 @@
-// Nimbus - Online Student Management System - Single-file project scaffold
-// Tree-like layout: copy files into a Maven project structure (or use the README below)
-
 /*
 pom.xml
 ----------------------------------------
@@ -103,7 +100,7 @@ pom.xml
 
 
 /*
-src/main/resources/hibernate.cfg.xml (alternative: use java config shown later)
+src/main/resources/hibernate.cfg.xml
 ----------------------------------------
 */
 
